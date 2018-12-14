@@ -9,7 +9,7 @@ the java api from https://github.com/kamelromdhani/Java-REST-API.git
 
 ### How to use
 
-Clone or download the java soap api from https://github.com/kamelromdhani/Java-REST-API.git
+Clone or download the java rest api from https://github.com/kamelromdhani/Java-REST-API.git
 
 Run the web service as mentionned in the readme file
 
